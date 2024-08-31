@@ -1,5 +1,5 @@
-### College Website
+# College Website
 ## Technology used for making this website :
-# HTML
-# CSS
-# JS
+### HTML
+### CSS
+### JS
